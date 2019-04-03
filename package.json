@@ -1,0 +1,23 @@
+{
+  "name": "vats-docs",
+  "version": "1.0.0",
+  "description": "VATS DOCS",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-theme-default-extend": "git+https://github.com/sergey12313/theme-default-extend.git",
+    "node-sass": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergey12313/vats-docs/issues"
+  },
+  "homepage": "https://github.com/sergey12313/vats-docs#readme"
+}
