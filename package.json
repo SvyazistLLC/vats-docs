@@ -13,11 +13,13 @@
   },
   "repository": {
     "type": "git",
+    "url": "https://github.com/SvyazistLLC/vats-docs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sergey12313/vats-docs/issues"
+    "url": "https://github.com/SvyazistLLC/vats-docs/issues"
+    
   },
   "homepage": "https://github.com/sergey12313/vats-docs#readme"
 }
