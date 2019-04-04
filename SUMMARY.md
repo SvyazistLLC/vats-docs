@@ -1,3 +1,7 @@
+---
+title: Содержание
+---
+
 ## Документация ВАТС
 
 
@@ -23,6 +27,6 @@
     * [Конференции](pages/services/confs.md)
     * [Голосовое Меню](pages/services/ivr.md)
     * [Виртуальные факсы](pages/services/faxes.md)
-* [Аналистика](pages/analistics/README.md)
+* [Аналитика](pages/analistics/README.md)
 * [Записи разговоров](pages/records/README.md)
 
