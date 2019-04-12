@@ -29,4 +29,4 @@ title: Содержание
     * [Виртуальные факсы](pages/services/faxes.md)
 * [Аналитика](pages/analistics/README.md)
 * [Записи разговоров](pages/records/README.md)
-* [Приложения](pages/records/Приложение 1. Управление абонентскими сервисами с телефонного аппарата пользователя.md)
+* [Приложения](pages/records/Readme.md)
